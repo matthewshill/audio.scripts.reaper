@@ -1,4 +1,4 @@
-#  ReaScript Name: MSGV_Spatial Audio Pipeline From EAR Plugin.lua
+#  ReaScript Name:Spatial Audio Pipeline From DAM and ReaSurround Panner
 #  Author: Matthew S.Hill
 #  Licence: GPL v3
 #  REAPER: 5.0
