@@ -1,3 +1,15 @@
+#  ReaScript Name: MSGV_Spatial Audio Pipeline From EAR Plugin.lua
+#  Author: Matthew S.Hill
+#  Licence: GPL v3
+#  REAPER: 5.0
+#  Extensions: None
+#  Version: 1.0 
+#
+#  Changelog:
+#  v1.0 (2023)
+#  Initial Release
+#
+
 import reaper_python as RPR
 
 def createBusAndRouteTracks():
